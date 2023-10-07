@@ -1,4 +1,4 @@
-# Taller3Vue
+# Taller3Vue OSCAR IGNACIO MILLALONCO SARABIA 
 
 This template should help get you started developing with Vue 3 in Vite.
 
